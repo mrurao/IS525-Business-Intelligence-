@@ -1,1 +1,1 @@
-# IS525-Business-Intelligence-
+# IS525-Business-Intelligence
